@@ -1,0 +1,90 @@
+Ontario:Brampton:43° 41' N:79° 45' W
+Ontario:Toronto:43° 39' N:79° 23' W
+Quebec:Montreal:45° 30' N:73° 31' W
+British Columbia:Vancouver:49° 17' N:123° 8' W
+Ontario:Ottawa:45° 26' N:75° 42' W
+Alberta:Edmonton:53° 33' N:113° 30' W
+Alberta:Calgary:51° 2' N:114° 4' W
+Nova Scotia:Halifax:44° 40' N:63° 36' W
+Manitoba:Winnipeg:49° 54' N:97° 8' W
+British Columbia:Victoria:48° 25' N:123° 22' W
+Newfoundland:Victoria:47° 46' N:53° 13' W
+Ontario:Victoria:43° 46' N:79° 52' W
+Prince Edward Island:Victoria:46° 13' N:63° 28' W
+Saskatchewan:Regina:50° 27' N:104° 36' W
+Nova Scotia:Windsor:44° 60' N:64° 9' W
+Ontario:Windsor:42° 18' N:83° 2' W
+Quebec:Windsor:45° 34' N:72° 0' W
+Northwest Territories:Yellowknife:62° 27' N:114° 22' W
+Yukon Territory:Whitehorse:60° 44' N:135° 3' W
+Ontario:Mississauga:43° 35' N:79° 37' W
+Ontario:Thunder Bay:48° 24' N:89° 16' W
+Ontario:London:42° 59' N:81° 14' W
+Saskatchewan:Saskatoon:52° 9' N:106° 39' W
+Ontario:Timmins:48° 29' N:81° 21' W
+New Brunswick:Moncton:46° 6' N:64° 47' W
+Ontario:Barrie:44° 23' N:79° 42' W
+Ontario:Sudbury:46° 29' N:80° 60' W
+Ontario:Hamilton:43° 15' N:79° 52' W
+British Columbia:Prince George:53° 55' N:122° 46' W
+New Brunswick:Fredericton:45° 58' N:66° 39' W
+Alberta:Medicine Hat:50° 2' N:110° 41' W
+Nova Scotia:Cambridge:45° 12' N:64° 7' W
+Ontario:Cambridge:43° 21' N:80° 18' W
+Northwest Territories:Inuvik:68° 22' N:133° 43' W
+Ontario:Oakville:43° 27' N:79° 40' W
+Newfoundland:Charlottetown:48° 26' N:54° 2' W
+Prince Edward Island:Charlottetown:46° 14' N:63° 8' W
+Nunavut:Iqaluit:63° 45' N:68° 33' W
+Nova Scotia:Kingston:44° 60' N:64° 56' W
+Ontario:Kingston:44° 14' N:76° 30' W
+British Columbia:Surrey:49° 10' N:122° 50' W
+Prince Edward Island:Surrey:46° 4' N:62° 49' W
+Ontario:Kitchener:43° 27' N:80° 29' W
+New Brunswick:Saint John:45° 17' N:66° 4' W
+Newfoundland:Burlington:49° 45' N:56° 1' W
+Ontario:Burlington:43° 20' N:79° 48' W
+Ontario:Waterloo:43° 30' N:80° 32' W
+Quebec:Waterloo:45° 21' N:72° 31' W
+British Columbia:Kamloops:50° 40' N:120° 21' W
+Ontario:Markham:43° 53' N:79° 15' W
+Ontario:Guelph:43° 33' N:80° 15' W
+Ontario:Oshawa:43° 54' N:78° 51' W
+Ontario:Peterborough:44° 18' N:78° 20' W
+Nunavut:Alert:82° 28' N:62° 18' W
+Nova Scotia:Sydney:46° 9' N:60° 12' W
+British Columbia:Kelowna:49° 52' N:119° 27' W
+Ontario:Cornwall:45° 2' N:74° 44' W
+Prince Edward Island:Cornwall:46° 14' N:63° 13' W
+British Columbia:Prince Rupert:54° 19' N:130° 18' W
+Manitoba:Brandon:49° 50' N:99° 57' W
+Alberta:Lethbridge:49° 41' N:112° 49' W
+Newfoundland:Lethbridge:48° 22' N:53° 51' W
+Nunavut:North Bay:62° 40' N:69° 45' W
+Ontario:North Bay:46° 18' N:79° 27' W
+New Brunswick:Chatham:47° 2' N:65° 28' W
+Ontario:Chatham:42° 24' N:82° 11' W
+Manitoba:Churchill:58° 46' N:94° 10' W
+Newfoundland:Churchill:53° 6' N:61° 5' W
+Ontario:Churchill:44° 15' N:79° 35' W
+Ontario:Whitby:43° 53' N:78° 56' W
+Alberta:Fort McMurray:56° 44' N:111° 26' W
+Ontario:Huntsville:45° 19' N:79° 13' W
+Ontario:Dresden:42° 35' N:82° 10' W
+Ontario:Georgetown:43° 39' N:79° 56' W
+Prince Edward Island:Georgetown:46° 11' N:62° 33' W
+Nova Scotia:Sherbrooke:45° 9' N:61° 60' W
+Quebec:Sherbrooke:45° 24' N:71° 54' W
+Ontario:Newmarket:44° 3' N:79° 27' W
+Ontario:Brantford:43° 9' N:80° 15' W
+Ontario:Pickering:43° 50' N:79° 6' W
+British Columbia:Richmond:49° 9' N:123° 10' W
+Ontario:Richmond:45° 12' N:75° 50' W
+Quebec:Richmond:45° 40' N:72° 8' W
+British Columbia:Nanaimo:49° 12' N:123° 59' W
+Newfoundland:Witless Bay:47° 15' N:52° 51' W
+British Columbia:Abbotsford:49° 3' N:122° 18' W
+Quebec:Laval:45° 33' N:73° 44' W
+Quebec:Quebec:46° 49' N:71° 13' W
+Ontario:Brockville:44° 36' N:75° 41' W
+British Columbia:Burnaby:49° 15' N:122° 59' W
